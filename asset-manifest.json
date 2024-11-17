@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.622ae38e.js",
-    "static/js/93.1e3c174e.js": "/static/js/93.1e3c174e.js",
-    "favicon.ico": "/favicon.ico",
-    "index.html": "/index.html",
-    "favicon-32.png": "/favicon-32.png",
-    "favicon-16.png": "/favicon-16.png",
-    "manifest.json": "/manifest.json",
-    "serve.json": "/serve.json",
-    "main.622ae38e.js.map": "/static/js/main.622ae38e.js.map",
-    "93.1e3c174e.js.map": "/static/js/93.1e3c174e.js.map"
+    "main.js": "/memory-leak-investigation/static/js/main.622ae38e.js",
+    "static/js/93.1e3c174e.js": "/memory-leak-investigation/static/js/93.1e3c174e.js",
+    "favicon.ico": "/memory-leak-investigation/favicon.ico",
+    "index.html": "/memory-leak-investigation/index.html",
+    "favicon-32.png": "/memory-leak-investigation/favicon-32.png",
+    "favicon-16.png": "/memory-leak-investigation/favicon-16.png",
+    "manifest.json": "/memory-leak-investigation/manifest.json",
+    "serve.json": "/memory-leak-investigation/serve.json",
+    "main.622ae38e.js.map": "/memory-leak-investigation/static/js/main.622ae38e.js.map",
+    "93.1e3c174e.js.map": "/memory-leak-investigation/static/js/93.1e3c174e.js.map"
   },
   "entrypoints": [
     "static/js/93.1e3c174e.js",
